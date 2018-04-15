@@ -1,2 +1,4 @@
-# resume
-Resume and related inforemation
+# Michael Dawson
+
+[Conference Presentations](conferences.md)
+[Publications](publications.md)
