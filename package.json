@@ -1,0 +1,23 @@
+{
+  "name": "mdawson-resume",
+  "version": "0.0.1",
+  "description": "markdown resume and related info",
+  "main": "gen-html.js",
+  "dependencies": {
+    "remark": "^9.0.0",
+    "remark-html": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdawson/resume.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/mhdawson/resume/issues"
+  },
+  "homepage": "https://github.com/mhdawson/resume#readme"
+}
