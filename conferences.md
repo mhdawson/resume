@@ -1,4 +1,7 @@
 # Michael Dawson - Recent Conference Presentations
+* [POWERUp 2018 - Node.js - What Why and How - V1.0](https://github.com/mhdawson/presentations/blob/master/2018/POWERUp18%20-%20Node.js%20-%20What%20Why%20and%20How%20-%20V1.0.pdf)
+* [POWERUp 2018 -Node.js - What's Next - V1.0](https://github.com/mhdawson/presentations/blob/master/2018/POWERUp18%20-Node.js%20-%20What's%20Next%20-%20V1.0.pdf)
+* [POWERUp 2018 - Your Node.js Questions Answered - v1.0](https://github.com/mhdawson/presentations/blob/master/2018/POWERUp18%20-%20Your%20Node.js%20Questions%20Answered%20-%20v1.0.pdf)
 * IBM Think 2018 - An inders View of Node.js - Inner Circle
 * [IBM Index 2018 - Node.js What's Next](https://youtu.be/YTJAt9kWE9Y)
 * [IBM Index 2018 - Talk to your Code ](https://youtu.be/LJMetcjGuMw)
