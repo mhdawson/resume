@@ -2,9 +2,9 @@
 * [Node.js userfeedback meeting Sep 2018 Meetup - Node.js Project overview and how to get involved](https://www.youtube.com/watch?v=_Thhx57-5Co)
 * [Node Summit 2018 - Building Next Generation Modules for Node.js using N-API](https://github.com/mhdawson/presentations/blob/master/2018/NodeSummit2018%20-%20Building%20Next%20Generation%20add-on%20modules%20for%20Node.js%20using%20N-API.pdf)
 * [Node Summit 2018 - N-API Workshop](https://github.com/mhdawson/presentations/blob/master/2018/NodeSummit2018%20-%20N-API%20Workshop.pdf)
-* [Node Summit 2018 - Node.js Wha's next ](https://github.com/mhdawson/presentations/blob/master/2018/NodeSummit2018%20-%20Node.js%20-%20What's%20next.pdf)
-* Node Summit 2018 - Security Panel
-* Node Summit 2018 - Cloud Panel
+* [Node Summit 2018 - Node.js What's next ](https://github.com/mhdawson/presentations/blob/master/2018/NodeSummit2018%20-%20Node.js%20-%20What's%20next.pdf)
+* [Node Summit 2018 - Security Panel](https://vimeo.com/287729415)
+* [Node Summit 2018 - Cloud Panel](https://vimeo.com/289101252)
 * [POWERUp 2018 - Node.js - What Why and How - V1.0](https://github.com/mhdawson/presentations/blob/master/2018/POWERUp18%20-%20Node.js%20-%20What%20Why%20and%20How%20-%20V1.0.pdf)
 * [POWERUp 2018 -Node.js - What's Next - V1.0](https://github.com/mhdawson/presentations/blob/master/2018/POWERUp18%20-Node.js%20-%20What's%20Next%20-%20V1.0.pdf)
 * [POWERUp 2018 - Your Node.js Questions Answered - v1.0](https://github.com/mhdawson/presentations/blob/master/2018/POWERUp18%20-%20Your%20Node.js%20Questions%20Answered%20-%20v1.0.pdf)
