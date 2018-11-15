@@ -1,5 +1,5 @@
 # Michael Dawson - Recent Conference Presentations
-* [NodeConfEU 2018 - Diagnostic Tooling - Be ready when things go wrong in production](https://twitter.com/NodeConfEU)
+* [NodeConfEU 2018 - Diagnostic Tooling - Be ready when things go wrong in production](https://youtu.be/yerVaSzrZTo?list=PL0CdgOSSGlBY7DBgOp1xsRvV31AAUZrX2)
 * [Node+JS Interactive 2018 - N-API: The Next Generation Node.js API is Ready!](https://www.youtube.com/watch?v=BrJcsYjp8Nw)
 * Node+JS Interactive 2018 - Panel - Building a Secure Ecosystem for Node.js
 * [Node.js user feedback meeting Sep 2018 Meetup - Node.js Project overview and how to get involved](https://www.youtube.com/watch?v=_Thhx57-5Co)
