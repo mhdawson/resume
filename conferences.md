@@ -1,5 +1,6 @@
 # Michael Dawson - Recent Conference Presentations
-* [Node+JS Interactive 2018 - N-API: The Next Generation Node.js API is Ready!](https://github.com/mhdawson/presentations/blob/master/2018/Node%2BJSInteractive%202018%20-%20N-API%20is%20ready.pdf)
+* [NodeConfEU 2018 - Diagnostic Tooling - Be ready when things go wrong in production](https://twitter.com/NodeConfEU)
+* [Node+JS Interactive 2018 - N-API: The Next Generation Node.js API is Ready!](https://www.youtube.com/watch?v=BrJcsYjp8Nw)
 * Node+JS Interactive 2018 - Panel - Building a Secure Ecosystem for Node.js
 * [Node.js user feedback meeting Sep 2018 Meetup - Node.js Project overview and how to get involved](https://www.youtube.com/watch?v=_Thhx57-5Co)
 * [Node Summit 2018 - Building Next Generation Modules for Node.js using N-API](https://github.com/mhdawson/presentations/blob/master/2018/NodeSummit2018%20-%20Building%20Next%20Generation%20add-on%20modules%20for%20Node.js%20using%20N-API.pdf)
