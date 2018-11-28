@@ -12,7 +12,7 @@
 * [POWERUp 2018 -Node.js - What's Next - V1.0](https://github.com/mhdawson/presentations/blob/master/2018/POWERUp18%20-Node.js%20-%20What's%20Next%20-%20V1.0.pdf)
 * [POWERUp 2018 - Your Node.js Questions Answered - v1.0](https://github.com/mhdawson/presentations/blob/master/2018/POWERUp18%20-%20Your%20Node.js%20Questions%20Answered%20-%20v1.0.pdf)
 * [Node Day Toronto 2018](https://github.com/mhdawson/presentations/blob/master/2018/Node%20Day%20Toronto%202018-%20V2.1.pdf)
-* IBM Think 2018 - An inders View of Node.js - Inner Circle
+* IBM Think 2018 - An insiders View of Node.js - Inner Circle
 * [IBM Index 2018 - Node.js What's Next](https://youtu.be/YTJAt9kWE9Y)
 * [IBM Index 2018 - Talk to your Code ](https://youtu.be/LJMetcjGuMw)
 * [NodeConfEU 2017 - N-API - next generation Node API for native modules](https://www.youtube.com/watch?v=E848bgHfoxE&index=21&list=PL0CdgOSSGlBaxNkrUIHrhd1f3ch45f66_)
