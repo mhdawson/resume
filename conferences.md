@@ -2,7 +2,7 @@
 *  [PowerUp 2019 - Enterprise Cloud-Ready Node.js](https://github.com/mhdawson/presentations/blob/master/2019/PowerUP%202019%20-%20Enterprise%2C%20Cloud-Ready%20Node.pdf)
 * [PowerUp 2019 - IBM i meets IoT](https://github.com/mhdawson/presentations/blob/master/2019/PowerUP%202019%20-%20IBMi%20Meets%20IoT.pdf)
 * [PowerUp 2019 - Node.js What's Next?](https://github.com/mhdawson/presentations/blob/master/2019/PowerUP%202019%20-%20Node.js%20-%20What's%20Next.pdf)
-* PowerUo 2019 - POWER Panel: Open Source
+* PowerUp 2019 - POWER Panel: Open Source
 * PowerUp 2019 - OPEN LAB: Intro to IBM Cloud with Node.js
 * [IBM Think 2019 - Node.js and JS Together](https://github.com/mhdawson/presentations/blob/master/2019/Think2019%20-%207657%20-%20Node%20and%20JS%20Together.pdf)
 * [Thisdot2019 - State of Frameworks - Node.js](https://github.com/mhdawson/presentations/blob/master/2019/Thisdot2019%20-%20State%20of%20frameworks%20-%20Node.js.pdf)
