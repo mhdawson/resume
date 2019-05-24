@@ -1,4 +1,10 @@
 # Michael Dawson - Publications
+* Node.js scalability investigation in the cloud - Proceedings of CASCON 2018
+* Garbage Collection Delays on Java GUIs - 11th International Conference on Mobile Computing and Ubiquitous Networking
+* Mitigating Garbage Collection Interference on Containerized Clouds - IEEE International Conference on Self-Adaptive and Self-Organizing Systems
+* SLO request modeling, reordering and scaling - Proceedings of CASCON 2017
+* Minimizing Performance Interference on Multitenant PaaS Clouds - 19th IEEE CLUSTER 2017
+* Garbage Collection on PaaS Clouds: Metrics and a Configurable Benchmark - The 4th International IBM Cloud Academy Conference
 * [Use JavaScript closures efficiently - Avoid memory leaks in your Node.js apps](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/)
 * [Multitenancy Benefits in Application Servers](http://dl.acm.org/citation.cfm?id=2886461)
 * [A Java util concurrent park contention tool](http://dl.acm.org/citation.cfm?id=2712389)
