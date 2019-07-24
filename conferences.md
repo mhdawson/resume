@@ -1,5 +1,6 @@
 # Michael Dawson - Recent Conference Presentations
-*  [PowerUp 2019 - Enterprise Cloud-Ready Node.js](https://github.com/mhdawson/presentations/blob/master/2019/PowerUP%202019%20-%20Enterprise%2C%20Cloud-Ready%20Node.pdf)
+* [JSConf.EU 2019 - Plus 1 to a collaborative future](https://2019.jsconf.eu/openjs-foundation/panel-1-to-a-collaborative-future-~-the-foundation-of-javascript.html)
+* [PowerUp 2019 - Enterprise Cloud-Ready Node.js](https://github.com/mhdawson/presentations/blob/master/2019/PowerUP%202019%20-%20Enterprise%2C%20Cloud-Ready%20Node.pdf)
 * [PowerUp 2019 - IBM i meets IoT](https://github.com/mhdawson/presentations/blob/master/2019/PowerUP%202019%20-%20IBMi%20Meets%20IoT.pdf)
 * [PowerUp 2019 - Node.js What's Next?](https://github.com/mhdawson/presentations/blob/master/2019/PowerUP%202019%20-%20Node.js%20-%20What's%20Next.pdf)
 * PowerUp 2019 - POWER Panel: Open Source
