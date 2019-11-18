@@ -1,4 +1,5 @@
 # Michael Dawson - Recent Conference Presentations
+* [NodeConf EU 2019 - Stress of Success](https://github.com/mhdawson/presentations/blob/master/2019/NodeConf%20EU%202019%20-%20Stress%20of%20Success.pdf)
 * [Thisdot2019 (August) - State of Frameworks - Node.js](https://github.com/mhdawson/presentations/blob/master/2019/Thisdot2019%20(2%20-Aug)%20-%20State%20of%20frameworks%20-%20Node.pdf)
 * [JSConf.EU 2019 - Plus 1 to a collaborative future](https://2019.jsconf.eu/openjs-foundation/panel-1-to-a-collaborative-future-~-the-foundation-of-javascript.html)
 * [PowerUp 2019 - Enterprise Cloud-Ready Node.js](https://github.com/mhdawson/presentations/blob/master/2019/PowerUP%202019%20-%20Enterprise%2C%20Cloud-Ready%20Node.pdf)
