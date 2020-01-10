@@ -1,4 +1,8 @@
 # Michael Dawson - Recent Conference Presentations
+* [Node+JS Interactive 2019 - Node.js in a Kubernetes World](https://www.youtube.com/watch?v=_SLlBDizfrE)
+* [Node+JS Interactive 2019 - A Chat with the Node.js Technical Steering Committee](https://www.youtube.com/watch?v=oKnYfK0FtfE)
+* [Node+JS Interactive 2019 - Happy Developers, Healthy Modules - Together We Can Do This](https://youtu.be/e7tj_IbHEF4)
+* [Node+JS Interactive 2019 - Next Generation N-API: A Hands-on Workshop](https://youtu.be/Dhjb_-_6Evo)
 * [NodeConf EU 2019 - Stress of Success](https://www.youtube.com/watch?v=swHbRSzDZxY&list=PL0CdgOSSGlBbkVfya8-yyhVsaiTx2GKXF&index=19&t=0s)
 * [Thisdot2019 (August) - State of Frameworks - Node.js](https://github.com/mhdawson/presentations/blob/master/2019/Thisdot2019%20(2%20-Aug)%20-%20State%20of%20frameworks%20-%20Node.pdf)
 * [JSConf.EU 2019 - Plus 1 to a collaborative future](https://2019.jsconf.eu/openjs-foundation/panel-1-to-a-collaborative-future-~-the-foundation-of-javascript.html)
