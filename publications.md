@@ -1,7 +1,9 @@
 # Michael Dawson - Publications
+* Scaling Parallelism Under CPU - Intensive Loads in Node.js - 2019 27th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)
 * Node.js scalability investigation in the cloud - Proceedings of CASCON 2018
 * Garbage Collection Delays on Java GUIs - 11th International Conference on Mobile Computing and Ubiquitous Networking
 * Mitigating Garbage Collection Interference on Containerized Clouds - IEEE International Conference on Self-Adaptive and Self-Organizing Systems
+* Why is Garbage Collection Causing my Service Level Objectives to Fail? - International Journal of Cloud Computing, vol 7, issue 3-4 2018.
 * SLO request modeling, reordering and scaling - Proceedings of CASCON 2017
 * Minimizing Performance Interference on Multitenant PaaS Clouds - 19th IEEE CLUSTER 2017
 * Garbage Collection on PaaS Clouds: Metrics and a Configurable Benchmark - The 4th International IBM Cloud Academy Conference
