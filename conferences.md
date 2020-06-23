@@ -1,7 +1,7 @@
 # Michael Dawson - Recent Conference Presentations and Talks
 * Common iNSIGHT - iNSIGHT Panel: Practical Internet of Things (IoT) for Your Business - June 11 2020
-* [Think 2020  - Cloud Native Development with Node.js Lab Intro](https://github.com/mhdawson/presentations/blob/master/2020/Think%202020%20-%20Cloud%20Native%20Development%20with%20Node.js%20Lab%20Intro.pdf)
-* [Think 2020 - Node.js Master Class](https://github.com/mhdawson/presentations/blob/master/2020/Think%202020%20-%20Node.js%20Master%20Class%20Intro.pdf)
+* [IBM Think 2020  - Cloud Native Development with Node.js Lab Intro](https://github.com/mhdawson/presentations/blob/master/2020/Think%202020%20-%20Cloud%20Native%20Development%20with%20Node.js%20Lab%20Intro.pdf)
+* [IBM Think 2020 - Node.js Master Class](https://github.com/mhdawson/presentations/blob/master/2020/Think%202020%20-%20Node.js%20Master%20Class%20Intro.pdf)
 * [Common iNSIGHT 2020 - Node.js - What's Next](https://github.com/mhdawson/presentations/blob/master/2020/Common%20iNSIGHT%202020%20-%20Node.js%20-%20What's%20Next.pdf)
 * [OpenJS Node.js Technical Steering Committee Ask me Anything April 2020](https://youtu.be/aq4qW_y29h8)
 * [SEMIUG March 2020 - Node.js - What's Next](https://github.com/mhdawson/presentations/blob/master/2020/SEMIUG%20March%202020%20-%20Node.js%20-%20What's%20Next.pdf)
