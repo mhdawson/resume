@@ -1,4 +1,5 @@
 # Michael Dawson - Recent Conference Presentations and Talks
+* [PowerUp Virtual 2020 - IBM i meets IoT](https://github.com/mhdawson/presentations/blob/master/2020/PowerUP%20Virtual%202020%20-%20IBMi%20Meets%20IoT%20v7.pdf)
 * [OpenJS Node.js Security Working Group Ask Me Anything](https://youtu.be/wx4G85rh71s)
 * [OpenJS World 2020 - Keynote: Fireside Chat on JavaScript Security](https://youtu.be/TkEty9PV9ro)
 * [OpenJS World 2020 - Keynote: Who Says Elephants Can't Dance with Node.js and JavaScript?](https://www.youtube.com/watch?v=97sqh1z3OXk)
