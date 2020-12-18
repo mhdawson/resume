@@ -1,4 +1,5 @@
 # Michael Dawson - Recent Conference Presentations and Talks
+* [Alibaba D2 Conference 2020 - Node.js What's Next?](https://github.com/mhdawson/presentations/blob/master/2020/D2%202020%20-%20Node.js%20What's%20Next.pdf)
 * [NodeConf 2020 - Node.js Success Stories](https://github.com/mhdawson/presentations/blob/master/2020/NodeConf%202020%20-%20Node.js%20Success%20Stories.pdf)
 * [PowerUp Virtual 2020 - IBM i meets IoT](https://github.com/mhdawson/presentations/blob/master/2020/PowerUP%20Virtual%202020%20-%20IBMi%20Meets%20IoT%20v7.pdf)
 * [OpenJS Node.js Security Working Group Ask Me Anything](https://youtu.be/wx4G85rh71s)
