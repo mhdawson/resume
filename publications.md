@@ -1,5 +1,5 @@
 # Michael Dawson - Publications
-* [Insights_into_WebAssembly_Compilation_Performance_and_Shared_Code_Caching_in_Nodejs](https://www.researchgate.net/publication/348810322_Insights_into_WebAssembly_Compilation_Performance_and_Shared_Code_Caching_in_Nodejs)
+* [Insights_into_WebAssembly_Compilation_Performance_and_Shared_Code_Caching_in_Nodejs - Nov 2020](https://www.researchgate.net/publication/348810322_Insights_into_WebAssembly_Compilation_Performance_and_Shared_Code_Caching_in_Nodejs)
 * Scaling Parallelism Under CPU - Intensive Loads in Node.js - 2019 27th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)
 * Node.js scalability investigation in the cloud - Proceedings of CASCON 2018
 * Garbage Collection Delays on Java GUIs - 11th International Conference on Mobile Computing and Ubiquitous Networking
