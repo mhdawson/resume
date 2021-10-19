@@ -1,4 +1,5 @@
 # Michael Dawson - Recent Conference Presentations and Talks
+* [NodeConf Remote 2021 - Node.js - What's Next?](https://youtu.be/fWg8fcCP1xE)
 * [NearForm Presents 2021 Q2 - Lunch with the experts: Core collaborators and application architects](https://developer.ibm.com/conferences/nearform-presents-backend-development-with-nodejs/lunch-with-experts/)
 * [OpenJSWorld 2021 - Keynote:Open Open Source and Making Great Places for Collaboration](https://www.youtube.com/watch?v=qDA58l3BfgQ)
 * [OpenJSWorld 2021 - Internet of Things (IoT) with Node: Both Practical and Fun!](https://www.youtube.com/watch?v=3NyDb-u1nz4)
