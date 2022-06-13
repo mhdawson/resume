@@ -1,4 +1,5 @@
 # Michael Dawson - Recent Conference Presentations and Talks
+* [OpenJS World 2022 - Node.js - What's Next](https://github.com/mhdawson/presentations/blob/main/2022/OpenJS-2022-Node.js-Whats-Next.pptx.pdf)
 * [This Dot State of Node.js 2022](https://www.youtube.com/watch?v=H4qu-_Hl_DA)
 * [NodeConf Remote 2021 - Node.js - What's Next?](https://youtu.be/fWg8fcCP1xE)
 * [NearForm Presents 2021 Q2 - Lunch with the experts: Core collaborators and application architects](https://developer.ibm.com/conferences/nearform-presents-backend-development-with-nodejs/lunch-with-experts/)
