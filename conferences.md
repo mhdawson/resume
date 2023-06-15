@@ -1,7 +1,7 @@
 # Michael Dawson - Recent Conference Presentations and Talks
 * [DataDog Cloud Security Lounge - The Node.js Security Ecosystem](https://www.youtube.com/watch?v=NNVhAwXvrp4)
 * [The Monthly Dev - Building Node.js addons like its 2023](https://www.youtube.com/watch?v=jzP8lyYqPzg&t=3717s)
-* [OpenJS World 2023 - What's next - catalyzing change in the Node.js ecosystem.pdf](https://github.com/mhdawson/presentations/blob/main/2023/OpenjSWorld-2023-Whats-next-catalyzing-change-in-the-nodejs-ecosystem.pdf)
+* [OpenJS World 2023 - What's next - catalyzing change in the Node.js ecosystem](https://github.com/mhdawson/presentations/blob/main/2023/OpenjSWorld-2023-Whats-next-catalyzing-change-in-the-nodejs-ecosystem.pdf)
 * [Open Source Summit 2023 - Improving the security of a large open source project one step at a time](https://github.com/mhdawson/presentations/blob/main/2023/OpenSourceSummit-2023-Improving-the-security-of-a-large-open-source-project.pdf)
 * [Growing Node.js success across organizations - JSDrops April 2023](https://www.youtube.com/watch?v=GncwXJBwcgQ)
 * [This Dot State of Node.js 2023](https://www.youtube.com/watch?v=Yl5mVte-wdw)
