@@ -1,4 +1,5 @@
 # Michael Dawson - Recent Conference Presentations and Talks
+* [Node.js What's next - JavaScript Louisville meeting June 2023](https://github.com/mhdawson/presentations/blob/main/2023/JSLou-June-2023-Whats-next.pdf)
 * [DataDog Cloud Security Lounge - The Node.js Security Ecosystem](https://www.youtube.com/watch?v=NNVhAwXvrp4)
 * [The Monthly Dev - Building Node.js addons like its 2023](https://www.youtube.com/watch?v=jzP8lyYqPzg&t=3717s)
 * [OpenJS World 2023 - What's next - catalyzing change in the Node.js ecosystem](https://github.com/mhdawson/presentations/blob/main/2023/OpenjSWorld-2023-Whats-next-catalyzing-change-in-the-nodejs-ecosystem.pdf)
