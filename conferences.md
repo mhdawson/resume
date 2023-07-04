@@ -8,7 +8,7 @@
 * [This Dot State of Node.js 2023](https://www.youtube.com/watch?v=Yl5mVte-wdw)
 * [NodeConf 2022 - Elevating your Node.js applications to the Cloud](https://github.com/mhdawson/presentations/blob/main/2022/NodeConfEU-2022-Nodejs-in-the-cloud.pdf)
 * [IBM i Developer Day 2022 - Node.js for real](https://www.youtube.com/watch?v=KbC_sLoGLJg#t=108m20s)
-* [OpenJS World 2022 - Node.js - What's Next](https://github.com/mhdawson/presentations/blob/main/2022/OpenJS-2022-Node.js-Whats-Next.pptx.pdf](https://www.youtube.com/watch?v=ywtp2wfJ_o8)
+* [OpenJS World 2022 - Node.js - What's Next](https://www.youtube.com/watch?v=ywtp2wfJ_o8)
 * [This Dot State of Node.js 2022](https://www.youtube.com/watch?v=H4qu-_Hl_DA)
 * [NodeConf Remote 2021 - Node.js - What's Next?](https://youtu.be/fWg8fcCP1xE)
 * [NearForm Presents 2021 Q2 - Lunch with the experts: Core collaborators and application architects](https://developer.ibm.com/conferences/nearform-presents-backend-development-with-nodejs/lunch-with-experts/)
