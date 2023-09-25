@@ -1,9 +1,11 @@
 # Michael Dawson - Recent Conference Presentations and Talks
+* [OpenJS World Europe 2023 - Node.js What's next](https://github.com/mhdawson/presentations/blob/main/2023/OpenJSWorld-EU-2023-Node.js-whats-next.pdf)
+* [Open Source Summit Europe 2023](https://github.com/mhdawson/presentations/blob/main/2023/OpenSourceSummit-EU-2023-Improving-the-Security-of-a-Large-Open-Source-Project.pdf)
 * [Node.js What's next - JavaScript Louisville meeting June 2023](https://github.com/mhdawson/presentations/blob/main/2023/JSLou-June-2023-Whats-next.pdf)
 * [DataDog Cloud Security Lounge - The Node.js Security Ecosystem](https://www.youtube.com/watch?v=NNVhAwXvrp4)
 * [The Monthly Dev - Building Node.js addons like its 2023](https://www.youtube.com/watch?v=jzP8lyYqPzg&t=3717s)
-* [OpenJS World 2023 - What's next - catalyzing change in the Node.js ecosystem](https://github.com/mhdawson/presentations/blob/main/2023/OpenjSWorld-2023-Whats-next-catalyzing-change-in-the-nodejs-ecosystem.pdf)
-* [Open Source Summit 2023 - Improving the security of a large open source project one step at a time](https://github.com/mhdawson/presentations/blob/main/2023/OpenSourceSummit-2023-Improving-the-security-of-a-large-open-source-project.pdf)
+* [OpenJS World 2023 - What's next - catalyzing change in the Node.js ecosystem](https://www.youtube.com/watch?v=LYpd96qhwrA)
+* [Open Source Summit 2023 - Improving the security of a large open source project one step at a time](https://www.youtube.com/watch?v=mqWiNkgU9UE)
 * [Growing Node.js success across organizations - JSDrops April 2023](https://www.youtube.com/watch?v=GncwXJBwcgQ)
 * [This Dot State of Node.js 2023](https://www.youtube.com/watch?v=Yl5mVte-wdw)
 * [NodeConf 2022 - Elevating your Node.js applications to the Cloud](https://github.com/mhdawson/presentations/blob/main/2022/NodeConfEU-2022-Nodejs-in-the-cloud.pdf)
