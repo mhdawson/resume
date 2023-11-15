@@ -1,6 +1,7 @@
 # Michael Dawson - Recent Conference Presentations and Talks
+* [NodeConf.eu 2023 - Building Node.js Native Addons like it's 2023](https://www.youtube.com/watch?v=BEPTMiCNxlY&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=19)
 * [OpenJS World Europe 2023 - Node.js What's next](https://github.com/mhdawson/presentations/blob/main/2023/OpenJSWorld-EU-2023-Node.js-whats-next.pdf)
-* [Open Source Summit Europe 2023](https://github.com/mhdawson/presentations/blob/main/2023/OpenSourceSummit-EU-2023-Improving-the-Security-of-a-Large-Open-Source-Project.pdf)
+* [Open Source Summit Europe 2023 - Improving the security of a large open source project one step at a time](https://www.youtube.com/watch?v=eTt6XnPaNa4)
 * [Node.js What's next - JavaScript Louisville meeting June 2023](https://github.com/mhdawson/presentations/blob/main/2023/JSLou-June-2023-Whats-next.pdf)
 * [DataDog Cloud Security Lounge - The Node.js Security Ecosystem](https://www.youtube.com/watch?v=NNVhAwXvrp4)
 * [The Monthly Dev - Building Node.js addons like its 2023](https://www.youtube.com/watch?v=jzP8lyYqPzg&t=3717s)
