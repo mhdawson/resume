@@ -1,4 +1,5 @@
 # Michael Dawson - Recent Conference Presentations and Talks
+* [DevNation Tech Talk - Node.js and JavaScript at the edge: The why, what and how](https://www.youtube.com/watch?v=ovhQhF-KX4g)
 * [NodeConf.eu 2023 - Building Node.js Native Addons like it's 2023](https://www.youtube.com/watch?v=BEPTMiCNxlY&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=19)
 * [OpenJS World Europe 2023 - Node.js What's next](https://github.com/mhdawson/presentations/blob/main/2023/OpenJSWorld-EU-2023-Node.js-whats-next.pdf)
 * [Open Source Summit Europe 2023 - Improving the security of a large open source project one step at a time](https://www.youtube.com/watch?v=eTt6XnPaNa4)
