@@ -1,4 +1,10 @@
 # Michael Dawson
 
-* [Conference Presentations](conferences.md)
+* [Bio](mdawson-bio.md)
+
+* [Talks and Conference Presentations](conferences.md)
+* [Blog Posts](blog-posts.md)
 * [Publications](publications.md)
+* [Patents](patents)
+
+* [Resume](resume.pdf)
