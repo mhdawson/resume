@@ -1,6 +1,6 @@
 * [An introduction to Node.js 22 from Red Hat](https://www.redhat.com/en/blog/introduction-nodejs-22-from-red-hat) - April 24, 2024
 * [Containerize Node.js applications at the edge on RHEL and Fedora](https://developers.redhat.com/articles/2024/04/16/containerize-nodejs-applications-edge-rhel-and-fedora)  - April 16, 2024
-* [How to get started with large language models and Node.js]( https://developers.redhat.com/learning/learn:openshift:how-get-started-large-language-models-and-nodejs) - March 29, 204
+* [How to get started with large language models and Node.js]( https://developers.redhat.com/learning/learn:openshift:how-get-started-large-language-models-and-nodejs) - March 29, 2024
 * [Run Node.js applications on the edge with RHEL and Fedora](https://developers.redhat.com/articles/2024/02/21/run-nodejs-applications-edge-rhel-and-fedora) -   February 21, 2024
 * [Node.js at Red Hat: 2023 Year in Review](https://developers.redhat.com/blog/2024/01/15/nodejs-red-hat-2023-year-review) - January 15, 2024
 * [NodeConf EU 2023 Wrap up - 30 second Red Hat perspective](https://developers.redhat.com/blog/2023/11/15/nodeconf-eu-2023-wrap-30-second-red-hat-perspective) -  November 15, 2023
