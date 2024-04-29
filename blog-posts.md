@@ -7,6 +7,7 @@
 * [Red Hat Node.js team at NodeConf.eu 2023](https://developers.redhat.com/blog/2023/10/27/red-hat-nodejs-team-nodeconfeu-2023) - October 27, 2023
 * [Introducing Node.js 21](https://www.redhat.com/en/blog/introducing-nodejs-21) - October 17, 2023
 * [Load balancing, threading, and scaling in Node.js](https://developers.redhat.com/articles/2023/10/09/load-balancing-threading-and-scaling-nodejs) - October 9, 2023
+  
 ​​​​​​​* [Red Hat Node.js team experience at OpenJS World and Open Source Summit Europe 2023](https://developers.redhat.com/blog/2023/09/27/red-hat-nodejs-team-experience-openjs-world-and-open-source-summit-europe-2023) - September 27, 2023
 * [Red Hat Node.js team at OpenJS World and Open Source Summit Europe](https://developers.redhat.com/blog/2023/09/12/red-hat-nodejs-team-openjs-world-and-open-source-summit-europe) - September 12, 2023
 * [A Node.js success story at the electrical training ALLIANCE](https://developers.redhat.com/articles/2023/09/12/nodejs-success-story-electrical-training-alliance) - September 12, 2023
