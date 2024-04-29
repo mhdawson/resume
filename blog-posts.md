@@ -54,5 +54,5 @@
 * [Call to Action: Accelerating Node.js Growth](https://nodejs.medium.com/call-to-action-accelerating-node-js-growth-e4862bee2919) - Nov 28, 2018
 * [N-API: Next generation APIs for Node.js native addons available across all LTS release lines](https://medium.com/the-node-js-collection/n-api-next-generation-apis-for-node-js-native-addons-available-across-all-lts-release-lines-4f35b781f00e) - Jul 18, 2018
 * [Node.js Community Code Coverage — A year in review](https://medium.com/the-node-js-collection/node-js-community-code-coverage-a-year-in-review-86f4f52f79de) - Dec 11, 2017
-* [Node.js Errors — Changes you need to know about](Node.js Errors — Changes you need to know about) - Aug 3, 2017
-* [Node.js Errors — Changes you need to know about](https://medium.com/the-node-js-collection/n-api-next-generation-node-js-apis-for-native-modules-169af5235b06) - May 31, 2017
+* [Node.js Errors — Changes you need to know about](https://medium.com/the-node-js-collection/node-js-errors-changes-you-need-to-know-about-dc8c82417f65) - Aug 3, 2017
+* [N-API: Next generation Node.js APIs for native modules](https://medium.com/the-node-js-collection/n-api-next-generation-node-js-apis-for-native-modules-169af5235b06) - May 31, 2017
