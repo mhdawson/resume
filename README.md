@@ -5,6 +5,6 @@
 * [Talks and Conference Presentations](conferences.md)
 * [Blog Posts](blog-posts.md)
 * [Publications](publications.md)
-* [Patents](patents)
+* [Patents](patents.md)
 
 * [Resume](resume.pdf)
