@@ -2,7 +2,8 @@
 
 * [Bio](mdawson-bio.md)
 
-* [Talks and Conference Presentations](conferences.md)
+* [Talks and Conference Presentations - Recordings](conferences.md)
+* [Talks and Conference Presentations - Slides](slides.md)
 * [Blog Posts](blog-posts.md)
 * [Publications](publications.md)
 * [Patents](patents.md)
