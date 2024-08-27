@@ -1,3 +1,4 @@
+* [Running applications with Paketo Buildpacks and Red Hat UBI container images in OpenShift](https://developers.redhat.com/articles/2024/08/26/running-applications-paketo-buildpacks-and-red-hat-ubi-container-images) - Aug 27, 2024
 * [A quick look at large language models with Node.js, Podman desktop, and the Granite model](https://developers.redhat.com/articles/2024/07/22/quick-look-large-language-models-nodejs-podman-desktop-and-granite-model) - July 23, 2024
 * [Build applications with Paketo Buildpacks and Red Hat UBI container images](https://developers.redhat.com/articles/2024/06/18/build-applications-paketo-buildpacks-and-red-hat-ubi-container-images) - June 18, 2024
 * [Advanced container management at the edge for Node.js apps](https://developers.redhat.com/articles/2024/05/22/advanced-container-management-edge-nodejs-apps?source=sso) - May 22, 2024
