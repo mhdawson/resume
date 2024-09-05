@@ -1,3 +1,5 @@
+* [Utilize Retrieval-Augmented Generation (RAG) with Node.js to optimize your AI applications](https://developers.redhat.com/learn/openshift/utilize-retrieval-augmented-generation-rag-nodejs-optimize-your-ai-applications) - Sep 4, 2024
+* [Deploying your LangChain.js Node.js applications to OpenShift AI](https://developers.redhat.com/learn/openshift/deploying-your-langchainjs-nodejs-applications-openshift-ai) - Sep 4, 2024
 * [Diving Deeper with large language models and Node.js](https://developers.redhat.com/learn/diving-deeper-large-language-models-and-nodejs) - Aug 28 2024.
 * [Running applications with Paketo Buildpacks and Red Hat UBI container images in OpenShift](https://developers.redhat.com/articles/2024/08/26/running-applications-paketo-buildpacks-and-red-hat-ubi-container-images) - Aug 27, 2024
 * [A quick look at large language models with Node.js, Podman desktop, and the Granite model](https://developers.redhat.com/articles/2024/07/22/quick-look-large-language-models-nodejs-podman-desktop-and-granite-model) - July 23, 2024
