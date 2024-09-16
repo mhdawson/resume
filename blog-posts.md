@@ -1,4 +1,5 @@
-* [Node.js 22 - Test it out early in the RHEL ecosystem](https://developers.redhat.com/blog/2024/09/10/nodejs-22-test-it-out-early-rhel-ecosystem)
+* [A quick look at tool use/function calling with Node.js and Ollama](https://developers.redhat.com/blog/2024/09/10/quick-look-tool-usefunction-calling-nodejs-and-ollama) - Sep 16 2024
+* [Node.js 22 - Test it out early in the RHEL ecosystem](https://developers.redhat.com/blog/2024/09/10/nodejs-22-test-it-out-early-rhel-ecosystem) - Sep 13, 2024
 * [Utilize Retrieval-Augmented Generation (RAG) with Node.js to optimize your AI applications](https://developers.redhat.com/learn/openshift/utilize-retrieval-augmented-generation-rag-nodejs-optimize-your-ai-applications) - Sep 4, 2024
 * [Deploying your LangChain.js Node.js applications to OpenShift AI](https://developers.redhat.com/learn/openshift/deploying-your-langchainjs-nodejs-applications-openshift-ai) - Sep 4, 2024
 * [Diving Deeper with large language models and Node.js](https://developers.redhat.com/learn/diving-deeper-large-language-models-and-nodejs) - Aug 28 2024.
