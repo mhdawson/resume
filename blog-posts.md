@@ -1,3 +1,4 @@
+* [The Nine Node Pillars](https://www.platformatichq.com/node-principles) - Sep 2024
 * [A quick look at tool use/function calling with Node.js and Ollama](https://developers.redhat.com/blog/2024/09/10/quick-look-tool-usefunction-calling-nodejs-and-ollama) - Sep 16 2024
 * [Node.js 22 - Test it out early in the RHEL ecosystem](https://developers.redhat.com/blog/2024/09/10/nodejs-22-test-it-out-early-rhel-ecosystem) - Sep 13, 2024
 * [Utilize Retrieval-Augmented Generation (RAG) with Node.js to optimize your AI applications](https://developers.redhat.com/learn/openshift/utilize-retrieval-augmented-generation-rag-nodejs-optimize-your-ai-applications) - Sep 4, 2024
