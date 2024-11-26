@@ -1,3 +1,6 @@
+* [NodeConf EU 2024 Wrap up - Thoughts from the Red Hat Team](https://developers.redhat.com/blog/2024/11/13/nodeconf-eu-2024-wrap-thoughts-red-hat-team) - Nov 2024
+* [Building agents with Large Language Models(LLMs) and Node.js](https://developers.redhat.com/blog/2024/10/25/building-agents-large-language-modelsllms-and-nodejs) - Oct 2024
+* [Meet the Red Hat Node.js team at NodeConf.eu 2024](https://developers.redhat.com/blog/2024/10/23/meet-red-hat-nodejs-team-nodeconfeu-2024) - Oct 2024
 * [An introduction to Node.js 23 from Red Hat](https://www.redhat.com/en/blog/introduction-nodejs-23-red-hat) - Oct 2024
 * [The Nine Node Pillars](https://www.platformatichq.com/node-principles) - Sep 2024
 * [A quick look at tool use/function calling with Node.js and Ollama](https://developers.redhat.com/blog/2024/09/10/quick-look-tool-usefunction-calling-nodejs-and-ollama) - Sep 16 2024
