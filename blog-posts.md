@@ -1,4 +1,4 @@
-* [The nine Node.js pillars and the Node.js reference architecture](https://developers.redhat.com/blog/2024/11/26/nine-nodejs-pillars-and-nodejs-reference-architecture)
+* [The nine Node.js pillars and the Node.js reference architecture] - (https://developers.redhat.com/blog/2024/11/26/nine-nodejs-pillars-and-nodejs-reference-architecture) - Dec 2024
 * [NodeConf EU 2024 Wrap up - Thoughts from the Red Hat Team](https://developers.redhat.com/blog/2024/11/13/nodeconf-eu-2024-wrap-thoughts-red-hat-team) - Nov 2024
 * [Building agents with Large Language Models(LLMs) and Node.js](https://developers.redhat.com/blog/2024/10/25/building-agents-large-language-modelsllms-and-nodejs) - Oct 2024
 * [Meet the Red Hat Node.js team at NodeConf.eu 2024](https://developers.redhat.com/blog/2024/10/23/meet-red-hat-nodejs-team-nodeconfeu-2024) - Oct 2024
