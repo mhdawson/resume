@@ -1,4 +1,4 @@
-* [A quick look at MCP with Large Language Models and Node.js](https://developers.redhat.com/blog/2025/01/22/quick-look-mcp-large-language-models-and-nodejs)
+* [A quick look at MCP with Large Language Models and Node.js](https://developers.redhat.com/blog/2025/01/22/quick-look-mcp-large-language-models-and-nodejs) - Jan 2025
 * [A quick start with Large Language Models and Node.js using Podman AI lab](https://developers.redhat.com/blog/2025/01/10/quick-start-large-language-models-and-nodejs-using-podman-ai-lab) - Jan 2025
 * [The nine Node.js pillars and the Node.js reference architecture](https://developers.redhat.com/blog/2024/11/26/nine-nodejs-pillars-and-nodejs-reference-architecture) - Dec 2024
 * [NodeConf EU 2024 Wrap up - Thoughts from the Red Hat Team](https://developers.redhat.com/blog/2024/11/13/nodeconf-eu-2024-wrap-thoughts-red-hat-team) - Nov 2024
