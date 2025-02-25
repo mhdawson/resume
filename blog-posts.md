@@ -1,3 +1,4 @@
+* [Meet the Red Hat Node.js team and Confoo 2025](https://developers.redhat.com/blog/2025/02/25/meet-red-hat-nodejs-team-confoo-2025), Feb 2025
 * [A quick look at MCP with Large Language Models and Node.js](https://developers.redhat.com/blog/2025/01/22/quick-look-mcp-large-language-models-and-nodejs) - Jan 2025
 * [A quick start with Large Language Models and Node.js using Podman AI lab](https://developers.redhat.com/blog/2025/01/10/quick-start-large-language-models-and-nodejs-using-podman-ai-lab) - Jan 2025
 * [The nine Node.js pillars and the Node.js reference architecture](https://developers.redhat.com/blog/2024/11/26/nine-nodejs-pillars-and-nodejs-reference-architecture) - Dec 2024
