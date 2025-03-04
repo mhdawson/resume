@@ -1,5 +1,7 @@
 # Michael Dawson - Recent Conference Presentations and Talks
 
+* [Confoo 2025 - Node.js What's New and What's Next](https://github.com/mhdawson/presentations/blob/main/2025/Confoo-2025-Nodejs_Whats_New_and_Whats_Next.pdf)
+* [Confoo 2025 - Node.js and JavaScript at the Edge](https://github.com/mhdawson/presentations/blob/main/2025/Confoo-2025-Nodejs_and_JavaScript_at_the_Edge.pdf)
 * [NodeConf EU 2024 - Node.js what's new and what's next](https://www.youtube.com/watch?v=zDR9xoMKU8M&list=PLFVadYWYE9opLgYJ7i0j50oIgn6pqBOM7)
 * [The Monthly Dev April 2024 -An inaugural AI journey with LangChain.js and Node.js](https://www.youtube.com/watch?v=cwq7UKWxOoU)
 * [DevNation Tech Talk - Node.js and JavaScript at the edge: The why, what and how](https://www.youtube.com/watch?v=ovhQhF-KX4g)
