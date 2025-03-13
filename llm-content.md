@@ -1,3 +1,4 @@
+* [Retrieval-augmented generation with Node.js, Podman AI Lab & React](https://developers.redhat.com/articles/2025/03/10/retrieval-augmented-generation-nodejs-podman-ai-lab-react) - March 2025
 * [A quick look at MCP with Large Language Models and Node.js](https://developers.redhat.com/blog/2025/01/22/quick-look-mcp-large-language-models-and-nodejs) - Jan 2025
 * [A quick start with Large Language Models and Node.js using Podman AI lab](https://developers.redhat.com/blog/2025/01/10/quick-start-large-language-models-and-nodejs-using-podman-ai-lab) - Jan 2025
 * [Building agents with Large Language Models(LLMs) and Node.js](https://developers.redhat.com/blog/2024/10/25/building-agents-large-language-modelsllms-and-nodejs) - Oct 2024
