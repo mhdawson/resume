@@ -1,3 +1,4 @@
+* [A practical guide to Llama Stack for Node.js developers](https://developers.redhat.com/articles/2025/04/02/practical-guide-llama-stack-nodejs-developers) - April 2025
 * [The journey to enable UBI with the Paketo Buildpacks ecosystem](https://developers.redhat.com/blog/2025/03/17/journey-enable-ubi-paketo-buildpacks-ecosystem) - March 2025
 * [Retrieval-augmented generation with Node.js, Podman AI Lab & React](https://developers.redhat.com/articles/2025/03/10/retrieval-augmented-generation-nodejs-podman-ai-lab-react) - March 2025
 * [Meet the Red Hat Node.js team and Confoo 2025](https://developers.redhat.com/blog/2025/02/25/meet-red-hat-nodejs-team-confoo-2025), Feb 2025
