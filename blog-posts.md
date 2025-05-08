@@ -1,3 +1,4 @@
+* [An introduction to Node.js 24 from Red Hat](https://www.redhat.com/en/blog/introduction-nodejs-24-from-red-hat) - May 2025
 * [Retrieval-augmented generation with Llama Stack and Node.js](https://developers.redhat.com/articles/2025/04/30/retrieval-augmented-generation-llama-stack-and-nodejs) - April 2025
 * [A practical guide to Llama Stack for Node.js developers](https://developers.redhat.com/articles/2025/04/02/practical-guide-llama-stack-nodejs-developers) - April 2025
 * [The journey to enable UBI with the Paketo Buildpacks ecosystem](https://developers.redhat.com/blog/2025/03/17/journey-enable-ubi-paketo-buildpacks-ecosystem) - March 2025
