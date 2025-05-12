@@ -1,3 +1,4 @@
+* [Meet the Red Hat Node.js team at PowerUP 2025](https://developers.redhat.com/blog/2025/05/12/meet-red-hat-nodejs-team-powerup-2025) - May 2025
 * [An introduction to Node.js 24 from Red Hat](https://www.redhat.com/en/blog/introduction-nodejs-24-from-red-hat) - May 2025
 * [Retrieval-augmented generation with Llama Stack and Node.js](https://developers.redhat.com/articles/2025/04/30/retrieval-augmented-generation-llama-stack-and-nodejs) - April 2025
 * [A practical guide to Llama Stack for Node.js developers](https://developers.redhat.com/articles/2025/04/02/practical-guide-llama-stack-nodejs-developers) - April 2025
