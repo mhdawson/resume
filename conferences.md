@@ -1,5 +1,8 @@
 # Michael Dawson - Recent Conference Presentations and Talks
 
+* [PowerUp 2025 - AI meets Node.js - Unlocking the Power of Large Language Models in JavaScript](https://github.com/mhdawson/presentations/blob/main/2025/PowerUp-2025-AI_Meets_Nodejs_Unlocking_the_Power_of_Large_Language_Models_in_JavaScript.pdf)
+* [PowerUp 2025 - An introduction to Node.js](https://github.com/mhdawson/presentations/blob/main/2025/PowerUp-2025-An_introduction_to_Nodejs.pdf)
+* [PowerUp 2025 - Node.js What's new and what's next](https://github.com/mhdawson/presentations/blob/main/2025/PowerUp-2025-Nodejs_Whats_new_and_whats_next.pdf)
 * [Confoo 2025 - Node.js What's New and What's Next](https://github.com/mhdawson/presentations/blob/main/2025/Confoo-2025-Nodejs_Whats_New_and_Whats_Next.pdf)
 * [Confoo 2025 - Node.js and JavaScript at the Edge](https://github.com/mhdawson/presentations/blob/main/2025/Confoo-2025-Nodejs_and_JavaScript_at_the_Edge.pdf)
 * [NodeConf EU 2024 - Node.js what's new and what's next](https://www.youtube.com/watch?v=zDR9xoMKU8M&list=PLFVadYWYE9opLgYJ7i0j50oIgn6pqBOM7)
