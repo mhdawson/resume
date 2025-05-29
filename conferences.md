@@ -1,14 +1,19 @@
 # Michael Dawson - Recent Conference Presentations and Talks
 
+* [Red Hat Partner series - May 2025 - What's new with the Red Hat Build of Node.js - Node.js 24 and beoynd](https://www.brighttalk.com/webcast/18106/643406)
 * [PowerUp 2025 - AI meets Node.js - Unlocking the Power of Large Language Models in JavaScript](https://github.com/mhdawson/presentations/blob/main/2025/PowerUp-2025-AI_Meets_Nodejs_Unlocking_the_Power_of_Large_Language_Models_in_JavaScript.pdf)
 * [PowerUp 2025 - An introduction to Node.js](https://github.com/mhdawson/presentations/blob/main/2025/PowerUp-2025-An_introduction_to_Nodejs.pdf)
 * [PowerUp 2025 - Node.js What's new and what's next](https://github.com/mhdawson/presentations/blob/main/2025/PowerUp-2025-Nodejs_Whats_new_and_whats_next.pdf)
 * PowerUP 2025 - Panel on Cutting-Edge Technology
+* [Red Hat Partner Series - March 2025 - Node.js and JavaScript at the Edge](https://www.brighttalk.com/webcast/18106/637778)
 * [Confoo 2025 - Node.js What's New and What's Next](https://github.com/mhdawson/presentations/blob/main/2025/Confoo-2025-Nodejs_Whats_New_and_Whats_Next.pdf)
 * [Confoo 2025 - Node.js and JavaScript at the Edge](https://github.com/mhdawson/presentations/blob/main/2025/Confoo-2025-Nodejs_and_JavaScript_at_the_Edge.pdf)
+* [Red Hat Partner Series - Feb 2025- An inaugural AI journey with Node.js](https://www.brighttalk.com/webcast/18106/634934)
+* [Red Hat Partner Series Nov 2024 - What's new with the Red Hat Build of Node.js, Node 22 and beyond](https://www.brighttalk.com/webcast/18106/625149)
 * [NodeConf EU 2024 - Node.js what's new and what's next](https://www.youtube.com/watch?v=zDR9xoMKU8M&list=PLFVadYWYE9opLgYJ7i0j50oIgn6pqBOM7)
 * [The Monthly Dev April 2024 -An inaugural AI journey with LangChain.js and Node.js](https://www.youtube.com/watch?v=cwq7UKWxOoU)
 * [DevNation Tech Talk - Node.js and JavaScript at the edge: The why, what and how](https://www.youtube.com/watch?v=ovhQhF-KX4g)
+* [Red Hat Partner Series Jan 2024 - What's new with the Red Hat build of Node.js, Node.js 20 and beyond](https://www.brighttalk.com/webcast/18106/605282)
 * [NodeConf.eu 2023 - Building Node.js Native Addons like it's 2023](https://www.youtube.com/watch?v=BEPTMiCNxlY&list=PL0CdgOSSGlBYI7_e6Zs4kFSXL9LvOn8gM&index=19)
 * [OpenJS World Europe 2023 - Node.js What's next](https://github.com/mhdawson/presentations/blob/main/2023/OpenJSWorld-EU-2023-Node.js-whats-next.pdf)
 * [Open Source Summit Europe 2023 - Improving the security of a large open source project one step at a time](https://www.youtube.com/watch?v=eTt6XnPaNa4)
