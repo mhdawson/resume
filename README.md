@@ -1,13 +1,12 @@
 # Michael Dawson
 
 * [Bio](mdawson-bio.md)
-
+* [Resume](resume.pdf)
+* [Blog Posts](blog-posts.md)
+* [AI/LLM related blog posts](llm-content.md)
 * [Talks and Conference Presentations - Recordings/Slides](conferences.md)
 * [Talks and Conference Presentations - Slides](https://github.com/mhdawson/presentations)
 * Ebooks
   * [A Developer's Guide to the Node.js Reference Architecture](https://developers.redhat.com/e-books/developers-guide-nodejs-reference-architecture)
-* [Blog Posts](blog-posts.md)
 * [Publications](publications.md)
 * [Patents](patents.md)
-
-* [Resume](resume.pdf)
