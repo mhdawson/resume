@@ -1,6 +1,7 @@
 # Michael Dawson
 
 <img src="MichaelDawson.JPG" alt="MichaelDawson" width="200"/>
+
 * [Bio](mdawson-bio.md)
 * [Resume](resume.pdf)
 * [Blog Posts](blog-posts.md)
