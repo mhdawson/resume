@@ -1,4 +1,4 @@
-*[How to implement observability with Node.js and Llama Stack](https://developers.redhat.com/articles/2025/06/12/how-implement-observability-nodejs-and-llama-stack) - June 2025
+* [How to implement observability with Node.js and Llama Stack](https://developers.redhat.com/articles/2025/06/12/how-implement-observability-nodejs-and-llama-stack) - June 2025
 * [Implement AI safeguards with Node.js and Llama Stack](https://developers.redhat.com/articles/2025/05/28/implement-ai-safeguards-nodejs-and-llama-stack) - May 2025
 * [PowerUp 2025 Wrap up - Thoughts from the Red Hat Team](https://developers.redhat.com/blog/2025/05/26/powerup-2025-wrap-thoughts-red-hat-team-0) - May 2025
 * [Meet the Red Hat Node.js team at PowerUP 2025](https://developers.redhat.com/blog/2025/05/12/meet-red-hat-nodejs-team-powerup-2025) - May 2025
