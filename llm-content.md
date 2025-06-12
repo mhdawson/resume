@@ -1,3 +1,4 @@
+* [How to implement observability with Node.js and Llama Stack](https://developers.redhat.com/articles/2025/06/12/how-implement-observability-nodejs-and-llama-stack) - June 2025
 * [Implement AI safeguards with Node.js and Llama Stack](https://developers.redhat.com/articles/2025/05/28/implement-ai-safeguards-nodejs-and-llama-stack) - May 2025
 * [PowerUP 2025 - AI Meets Node.js - Unlocking the Power of Large Language Models in JavaScript](https://github.com/mhdawson/presentations/blob/main/2025/PowerUp-2025-AI_Meets_Nodejs_Unlocking_the_Power_of_Large_Language_Models_in_JavaScript.pdf) - May 2025
 * [Retrieval-augmented generation with Llama Stack and Node.js](https://developers.redhat.com/articles/2025/04/30/retrieval-augmented-generation-llama-stack-and-nodejs) - April 2025
