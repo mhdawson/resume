@@ -35,6 +35,6 @@ Node.js support. These components are built in go.
 * Added 2 recipes to Podman AI Lab
 https://github.com/containers/ai-lab-recipes/pulls?q=is%3Apr+author%3Amhdawson+
 
-* PRs across podman-desktop and podman-desktop-extension-ai-lab, Added support for GPU acceleration on Linux for Podman AI lab
+* PRs across podman-desktop and podman-desktop-extension-ai-lab (added support for GPU acceleration on Linux for Podman AI lab)
   * https://github.com/containers/podman-desktop-extension-ai-lab/pulls?q=is%3Apr+author%3Amhdawson
   * https://github.com/podman-desktop/podman-desktop/pulls?q=is%3Apr+author%3Amhdawson+
