@@ -16,8 +16,8 @@
 
 ## Open Source
 * ~1800 GitHub contributions per year over the last 9 years
-* Node.js Collaborator and TSC member, Chair of the TSC for the last 8 years,
-#17 on all time contributor list in [Node.js](https://github.com/nodejs/) 
+* [Node.js](https://github.com/nodejs) Collaborator and TSC member, Chair of the TSC for the last 8 years,
+#17 on all time contributor list in [Node.js/node](https://github.com/nodejs/node) 
 * [Paketo](https://github.com/paketo-buildpacks) Node.js, stack and builder
 maintainer, ramped up and led building ubi stacks and builders along with 
 Node.js support. These components are built in go.
