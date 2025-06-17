@@ -4,14 +4,14 @@
 
 ## General
 * [Bio](mdawson-bio.md)
-* [resume](https://github.com/mhdawson/resume/blob/main/resume.pdf)
-* [blogs](https://github.com/mhdawson/resume/blob/main/blog-posts.md)
+* [Resume](https://github.com/mhdawson/resume/blob/main/resume.pdf)
+* [Blogs](https://github.com/mhdawson/resume/blob/main/blog-posts.md)
 * [AI/LLM related blog posts](llm-content.md)
 * [Talks and Conference Presentations - Recordings/Slides](conferences.md)
 * [Talks and Conference Presentations - Slides](https://github.com/mhdawson/presentations)
 * Ebooks - [A Developer's Guide to the Node.js Reference Architecture](https://developers.redhat.com/e-books/developers-guide-nodejs-reference-architecture)
-* [publications](https://github.com/mhdawson/resume/blob/main/publications.md)
-* [patents](https://github.com/mhdawson/resume/blob/main/patents.md)
+* [Publications](https://github.com/mhdawson/resume/blob/main/publications.md)
+* [Patents](https://github.com/mhdawson/resume/blob/main/patents.md)
 * [Google Scholar Citations](https://scholar.google.ca/citations?hl=en&user=6CBaUJcAAAAJ)
 
 ## Open Source
