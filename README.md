@@ -15,7 +15,7 @@
 * [Google Scholar Citations](https://scholar.google.ca/citations?hl=en&user=6CBaUJcAAAAJ)
 
 ## Open Source
-* ~1800 GitHub contributions per year over the last 9 years
+* [~1800 GitHub contributions](https://github.com/mhdawson) per year over the last 9 years
 * [Node.js](https://github.com/nodejs) Collaborator and TSC member, Chair of the TSC for the last 8 years,
 #17 on all time contributor list in [Node.js/node](https://github.com/nodejs/node) 
 * [Paketo](https://github.com/paketo-buildpacks) Node.js, stack and builder
