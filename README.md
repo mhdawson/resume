@@ -21,8 +21,8 @@
 * [Paketo](https://github.com/paketo-buildpacks) Node.js, stack and builder
 maintainer, ramped up and led building ubi stacks and builders along with 
 Node.js support. These components are built in go.
-* OpenJS Foundation board member for 3 years (2019-2022)
-* OpenJS voting Cross project council member
+* [OpenJS](https://openjsf.org/) Foundation board member for 3 years (2019-2022)
+* [OpenJS](https://openjsf.org/) voting Cross project council member
 
 ## AI and LLMS
 
