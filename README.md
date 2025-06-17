@@ -13,6 +13,7 @@
   * [A Developer's Guide to the Node.js Reference Architecture](https://developers.redhat.com/e-books/developers-guide-nodejs-reference-architecture)
 * [publications](https://github.com/mhdawson/resume/blob/main/publications.md)
 * [patents](https://github.com/mhdawson/resume/blob/main/patents.md)
+* [Google Scholar Citations](https://scholar.google.ca/citations?hl=en&user=6CBaUJcAAAAJ)
 
 ## Open Source
 * ~1800 GitHub contributions per year over the last 9 years
