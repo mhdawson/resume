@@ -19,8 +19,8 @@
 * [Node.js](https://github.com/nodejs) Collaborator and TSC member, Chair of the TSC for the last 8 years,
 #17 on all time contributor list in [Node.js/node](https://github.com/nodejs/node) 
 * [Paketo](https://github.com/paketo-buildpacks) Node.js, stack and builder
-maintainer, ramped up and led building ubi stacks and builders (written in go) along with 
-Node.js support.
+maintainer, ramped up and led building ubi stacks and builders along with 
+Node.js buildpacks support (written in go).
 * [OpenJS](https://openjsf.org/) Foundation board member for 3 years (2019-2022)
 * [OpenJS](https://openjsf.org/) Foundation voting Cross project council member
 
