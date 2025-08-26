@@ -1,3 +1,4 @@
+* [Implement AI safeguards with Python and Llama Stack](https://developers.redhat.com/articles/2025/08/26/implement-ai-safeguards-python-and-llama-stack) - Aug 2025
 * [Retrieval-augmented generation with Llama Stack and Python](https://developers.redhat.com/articles/2025/08/05/retrieval-augmented-generation-llama-stack-and-python) - Aug 2025
 * [Exploring Llama Stack with Python: Tool calling and agents](https://developers.redhat.com/articles/2025/07/15/exploring-llama-stack-python-tool-calling-and-agents) - July 2025
 * [How to implement observability with Node.js and Llama Stack](https://developers.redhat.com/articles/2025/06/12/how-implement-observability-nodejs-and-llama-stack) - June 2025
