@@ -1,1 +1,5 @@
+# Short
 Michael Dawson is a Senior Principal Software Engineer at Red Hat, with a focus on building AI and LLM applications as part of the ecosystem engineeing team. Before moving into the AI space, he was a key contributor to Node.js as the technical lead for IBM and Red Hat's Node.js team and a member of the Node.js Technical Steering Committee.
+
+# Long
+Michael Dawson is a Senior Principal Software Engineer at Red Hat, with a focus on building AI and LLM applications as part of the ecosystem engineeing team. Before moving into the AI space, he was a key contributor to Node.js as the technical lead for IBM and Red Hat's Node.js team and a member of the Node.js Technical Steering Committee. Going back further his experience includes building IBM's Java runtime, building and operating client facing e-commerce applications, building PKI and symmetric based crypto solutions as well as a number of varied consulting engagements. In his spare time, he uses Node.js to automate his home and life for fun.
