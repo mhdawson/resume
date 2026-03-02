@@ -1,5 +1,6 @@
 # Michael Dawson - Recent Conference Presentations and Talks
-
+* [ Confoo 2026 - Ramping up on Llama Stack for developing AI applications](https://github.com/mhdawson/presentations/blob/main/2026/Ramping_up_on_Llama_Stack_for_developing_AI_applications.pdf)
+* [ Confoo 2026 - The Crucial Role of AI Evaluations](https://github.com/mhdawson/presentations/blob/main/2026/The_Crucial_Role_of_AI_Evaluations.pdf)
 * [Red Hat Partner series - May 2025 - What's new with the Red Hat Build of Node.js - Node.js 24 and beoynd](https://www.brighttalk.com/webcast/18106/643406)
 * [PowerUp 2025 - AI meets Node.js - Unlocking the Power of Large Language Models in JavaScript](https://github.com/mhdawson/presentations/blob/main/2025/PowerUp-2025-AI_Meets_Nodejs_Unlocking_the_Power_of_Large_Language_Models_in_JavaScript.pdf)
 * [PowerUp 2025 - An introduction to Node.js](https://github.com/mhdawson/presentations/blob/main/2025/PowerUp-2025-An_introduction_to_Nodejs.pdf)
