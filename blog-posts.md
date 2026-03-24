@@ -1,3 +1,4 @@
+* [Eval-driven development: Build and evaluate reliable AI agents](https://developers.redhat.com/articles/2026/03/23/eval-driven-development-build-evaluate-ai-agents) - March 2026
 * [Automate AI agents with the Responses API in Llama Stack](https://developers.redhat.com/articles/2026/03/09/automate-ai-agents-responses-api-llama-stack) - March 2026
 * [Prompt engineering: Big vs. small prompts for AI agents](https://developers.redhat.com/articles/2026/02/23/prompt-engineering-big-vs-small-prompts-ai-agents) - Feb 2026
 * [AI quickstart: Self-service agent for IT process automation](https://developers.redhat.com/articles/2026/01/26/ai-quickstart-self-service-agent-it-process-automation) - Jan 2026
