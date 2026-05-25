@@ -1,4 +1,5 @@
 # Michael Dawson - Recent Conference Presentations and Talks
+* [AI agents for enterprise IT automation with Red Hat OpenShift AI](https://github.com/mhdawson/presentations/blob/main/2026/Building_production_ready_AI_agents_for_enterprise_IT_automation_with_Red_Hat_OpenShift_AI.pdf) - May 2026
 * [ Confoo 2026 - Ramping up on Llama Stack for developing AI applications](https://github.com/mhdawson/presentations/blob/main/2026/Ramping_up_on_Llama_Stack_for_developing_AI_applications.pdf)
 * [ Confoo 2026 - The Crucial Role of AI Evaluations](https://github.com/mhdawson/presentations/blob/main/2026/The_Crucial_Role_of_AI_Evaluations.pdf)
 * [Red Hat Partner series - May 2025 - What's new with the Red Hat Build of Node.js - Node.js 24 and beoynd](https://www.brighttalk.com/webcast/18106/643406)
