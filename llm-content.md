@@ -1,3 +1,4 @@
+* [Speeding up ticket resolution with agentic AI](https://developers.redhat.com/articles/2026/10/20/speeding-up-ticket-resolution-with-agentic-ai) - Oct 2026
 * [How to manage aircraft leases with AI agents](https://www.redhat.com/en/blog/how-manage-aircraft-leases-ai-agents) - Sep 2026
 * [Deploy with confidence: Continuous integration and continuous delivery for agentic AI](https://developers.redhat.com/articles/2026/05/18/ci-cd-delivery-agentic-ai) - May 2026
 * [Eval-driven development: Build and evaluate reliable AI agents](https://developers.redhat.com/articles/2026/03/23/eval-driven-development-build-evaluate-ai-agents) - March 2026
